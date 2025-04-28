@@ -16,3 +16,5 @@ pypiwin32
 comtypes
 
 pyttsx3
+
+pyautogui
